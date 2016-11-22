@@ -1,0 +1,40 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+
+// Modules and Variables
+@import "partials/base";
+
+// Partials
+@import "partials/typography";
+@import "partials/iconography";
+@import "partials/tables";
+@import "partials/buttons";
+@import "partials/forms";
+@import "partials/dropdowns";
+@import "partials/navbar";
+@import "partials/navs";
+@import "partials/pills";
+@import "partials/pager";
+@import "partials/jumbotron";
+@import "partials/tooltips";
+@import "partials/popovers";
+@import "partials/labels";
+@import "partials/modals";
+@import "partials/alerts";
+@import "partials/progress_bars";
+@import "partials/list_groups";
+@import "partials/panels";
+@import "partials/thumbnails";
+@import "partials/wells";
+@import "partials/badges";
+@import "partials/breadcrumbs";
+@import "partials/carousel";
+@import "partials/close";
+@import "partials/code";
+
+
+// Third-party (Vendors)
